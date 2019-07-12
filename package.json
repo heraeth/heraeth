@@ -1,0 +1,17 @@
+{
+  "name": "heraeth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Hereath",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.2"
+  }
+}
